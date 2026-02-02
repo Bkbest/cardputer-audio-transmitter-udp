@@ -7,6 +7,7 @@ A powerful audio recording and transmission application for M5Stack Cardputer th
 - [UIFlow Project Page](https://uiflow2.m5stack.com/?pkey=f4da1d7386ed49ea977130ec68e813f2)
 - [Calendar AI Agent Repository](https://github.com/Bkbest/calendar-agent)
 - [M5Stack Cardputer Documentation](https://docs.m5stack.com/en/core/cardputer)
+- [Demo Video - See it in Action!](https://www.youtube.com/watch?v=qJXeVfc1xkE)
 
 ## What is Cardputer?
 
